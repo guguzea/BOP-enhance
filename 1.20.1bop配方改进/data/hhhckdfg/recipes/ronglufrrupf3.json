@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": [
+    "minecraft:rotten_flesh",
+    "biomesoplenty:eyebulb",
+    "biomesoplenty:flesh_tendons",
+    "biomesoplenty:hair",
+    "biomesoplenty:flesh",
+    "biomesoplenty:porous_flesh"
+  ],
+  "result": {
+    "item": "minecraft:leather"
+  }
+}
